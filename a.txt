@@ -1,8 +1,1 @@
-a
-z
-pop
-x
-d
-y
-z
-lz
+hi
